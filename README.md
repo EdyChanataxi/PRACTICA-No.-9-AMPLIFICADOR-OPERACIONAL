@@ -45,7 +45,7 @@
 
 ![.](IMG/L2.jpeg)
 
-![.](IMG/L3.jpeg)
+![.](IMG/L3.png)
 
 5.1 Analice y compare las formas de onda obtenidas en practica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparacion 
 
