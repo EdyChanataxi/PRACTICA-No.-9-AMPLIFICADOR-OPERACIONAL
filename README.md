@@ -43,7 +43,11 @@
 
 5.1 Analice y compare las formas de onda obtenidas en practica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparacion 
 
+En el primer circuito podemos observar en las gráficas que el voltaje de salida es mucho mayor que el voltaje de entrada, la cual consiste en V3 + VR1, comparando con los demás circuitos se puede observar que si R en paralelo al amplificador es mayor a la resistencia del voltaje de entrada, esto es lo que causa que el voltaje de salida sea mayor.
 
+En el segundo circuito 2, habiendo observado los sucesos del circuito 1, podemos concluir que el voltaje de salida del amplificador va a depender de la resistencia que está en paralelo a éste. Este es un caso especial en la cual esta resistencia es un capacitor, en este caso especial envez de aumentar el voltaje lo que sucede es que el voltaje de salida se convierte en una corriente directa.
+
+Este tercer circuito es muy similar al primer circuito, sin embargo, en este caso se tiene dos voltajes de entrada, ambos con una corriente alterna iguales y dos resistencias distintas, con esto podemos realizar un análisis de nodos y se cumple lo mismo en el circuito 1, de que la resistencia en paralelo con el amplificador es mayor que la resistencia que contribuye voltaje.
 
 5.2 Anote parametros tecnic importantes  de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto
 
