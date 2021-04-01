@@ -41,6 +41,12 @@
 - Con un osciloscopio capturamos la señal de entrada y salida 
 - Repetimos los mismo pasos para los otros 2 circuitos 
 
+![.](IMG/L1.jpeg)
+
+![.](IMG/L2.jpeg)
+
+![.](IMG/L3.jpeg)
+
 5.1 Analice y compare las formas de onda obtenidas en practica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparacion 
 
 En el primer circuito podemos observar en las gráficas que el voltaje de salida es mucho mayor que el voltaje de entrada, la cual consiste en V3 + VR1, comparando con los demás circuitos se puede observar que si R en paralelo al amplificador es mayor a la resistencia del voltaje de entrada, esto es lo que causa que el voltaje de salida sea mayor.
