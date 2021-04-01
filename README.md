@@ -15,6 +15,9 @@
 
 2. MARCO TEORICO
 
+![Yellow Green and Blue Futuristic Organization Process Timeline Infographic](https://user-images.githubusercontent.com/76446982/113249810-fb09e480-9284-11eb-8a7f-6ef0427705ca.png)
+
+
 3. DIAGRAMAS
 
 ![.](IMG/AO.png)
