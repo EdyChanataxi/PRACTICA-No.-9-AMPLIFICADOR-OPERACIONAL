@@ -57,6 +57,11 @@ Este tercer circuito es muy similar al primer circuito, sin embargo, en este cas
 
 5.2 Anote parametros tecnic importantes  de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto
 
+-Tensión de alimentación (V+ y V-): Es la tensión de alimentación máxima permitida que puede aplicarse con seguridad al amplificador. Aunque se designa como estándar 15 V de alimentación, la mayoría de los AO integrados operan sobre un amplio rango de potenciales, algunos van desde valores tan bajos como 1 V, y otros hasta 40 V.
+
+-Rango de Temperatura de operación (Tor): Es el rango de temperatura dentro del cual el dispositivo funcionar con las especificaciones mostradas.
+
+-Tensión de entrada diferencial (Vid): Es la tensión máxima que puede aplicarse con seguridad entre los terminales de entrada diferencial sin flujo excesivo de corriente. Estos valores son variables, los AO con entrada cascodo pn p/n pn soportan hasta 30 V, similares a los AO con entrada FET.
 
 
 5.3 Investigue las caracteristicas de amplificadores operacionales distintos a los utilizados en esta practica 
@@ -79,7 +84,7 @@ Estas dos variedades de amplificadores operacionales realizan un proceso aritmé
 
 5.4 Investigue otras aplicaciones con circuitos mas complejos que utilizan amplificadores operacionales 
 
-
+ Se utiliza extensamente en muchos dispositivos, junto con resistores y otros elementos pasivos. Entre las numerosas aplicaciones prácticas se encuentran amplificadores para instrumentos, convertidores digitales-analógicos, computadoras analógicas, cambiadores de nivel, filtros, circuitos de calibración, inversores, sumadores, integradores, diferenciadores, restadores, amplificadores logarítmicos, comparadores, elementos rotatorios, osciladores, rectificadores, reguladores, convertidores de tensión a corriente, convertidores de corriente a tensión y recortadores.
 
 6. CONCLUCION
 
